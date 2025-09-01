@@ -1,0 +1,12 @@
+html {
+  scroll-behavior: smooth;
+}
+section {
+  scroll-margin-top: 96px;
+}
+.hero-gradient {
+  background: linear-gradient(180deg, #fdfbfb 0%, #ebedee 100%);
+}
+.nav-blur {
+  backdrop-filter: blur(12px);
+}
